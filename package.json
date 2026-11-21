@@ -1,0 +1,19 @@
+{
+  "name": "amnas-bakery",
+  "version": "1.0.0",
+  "description": "Amna's Bakery - semester web project (Node.js, Express, EJS, SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "sql.js": "^1.10.3"
+  }
+}
